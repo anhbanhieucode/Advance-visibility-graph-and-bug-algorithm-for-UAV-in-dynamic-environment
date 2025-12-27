@@ -81,15 +81,18 @@ While the global planner provides the general route, the local planner ensures t
 │       └── test.py               # Unit tests
 ├── requirements.txt              # Python dependencies
 └── README.md                     # Documentation
+```
 🛠 Installation
 Clone the repository:
 
-Bash
+```bash
 
 git clone [https://github.com/anhbanhieucode/Advance-visibility-graph-and-bug-algorithm-for-UAV-in-dynamic-environment.git](https://github.com/anhbanhieucode/Advance-visibility-graph-and-bug-algorithm-for-UAV-in-dynamic-environment.git)
 cd Advance-visibility-graph-and-bug-algorithm-for-UAV-in-dynamic-environment
+```
 Install dependencies: It is recommended to use a virtual environment.
 
-Bash
+```bash
 
 pip install numpy matplotlib scipy networkx
+```
