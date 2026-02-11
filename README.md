@@ -8,7 +8,7 @@
 **An advanced hybrid path planning solution for Unmanned Aerial Vehicles (UAVs) operating in complex, dynamic environments.**
 
 This repository implements a novel approach to the **Visibility Graph** algorithm. By introducing an **Obstacle Merging Mechanism**, we significantly reduce the number of graph nodes and edges, optimizing computational time without sacrificing path safety. 
-This global planner is integrated with a local planner (MPC/Reactive) to handle dynamic threats (under developing).
+This global planner is integrated with a local planner (MPC/Reactive) to handle dynamic threats (under developing). This is also my graduation thesis.
 
 ---
 
